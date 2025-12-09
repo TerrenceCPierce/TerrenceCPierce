@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 #### A Mechanical Engineering Major at the University of Maryland 
 
 #### Research interests:
-* Lightning Data
-* Plasma Propulsion
+* Prosthetics
 * Metamaterials
 * Fluids Mechanics
-* Drone Fire Detection
+* Lightning Sensors
+* Plasma Propulsion
 
 \
 If you have any questions feel free to reach out over email, but consider checking out my public repositories for some of the public projects I have worked on. Also, feel free to check out my portfolio website and Google Scholar page that list more of what I've done.\
